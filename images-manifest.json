@@ -4,16 +4,17 @@
   "P03": "chairs/Vitra_ACX.avif",
   "P04": "chairs/Steelcase_Leap.avif",
   "P05": "chairs/KI_Kiaura.avif",
-  "P06": "chairs/Okamura_Shpere.avif",
-  "P07": "chairs/HAG_Capisco.avif",
-  "P08": "chairs/HermanMiller_AluminiumChair.avif",
+  "P06": "chairs/Okamura_Sphere.avif",
+  "P07": "chairs/Hag_Capisco.avif",
+  "P08": "chairs/HermanMiller_AluminiumGroup.avif",
   "P09": "chairs/AndreuWorld_VeloChair.avif",
   "P10": "chairs/Okamura_Muku.avif",
   "P11": "chairs/Sedus_Semotion.avif",
-  "P12": "chairs/9to5seating_Ellie.avif",
+  "P12": "chairs/9to5Seating_EllieMedium.avif",
   "P13": "chairs/Itoki_TorteU.avif",
   "P14": "chairs/Itoki_Shiga.avif",
   "P15": "chairs/Allsteel_Clarity.avif",
   "P16": "chairs/Narbutas_Botany.avif",
-  "P17": "chairs/9to5seating_EllieSmal.avif",
-  "P18": "chairs/Tecno_Vela.avif"
+  "P17": "chairs/Tecno_Vela.avif",
+  "P18": "chairs/9to5Seating_EllieSmall.avif"
+}
